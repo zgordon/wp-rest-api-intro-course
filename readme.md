@@ -1,6 +1,6 @@
 # Introduction to the WordPress REST API
 
-![Course Banner](https://dzwonsemrish7.cloudfront.net/items/1P171E2r3s0L2y3K0D0y/Cover.png "Course Banner")
+![Course Banner](https://dzwonsemrish7.cloudfront.net/items/1P171E2r3s0L2y3K0D0y/Cover.png)
 
 ## A Course from Zac Gordon on Udemy
 
