@@ -1,4 +1,4 @@
-# Introduction to the WordPress REST API
+# The WordPress REST API w JavaScript - An Introduction
 
 ![Course Banner](https://dzwonsemrish7.cloudfront.net/items/1P171E2r3s0L2y3K0D0y/Cover.png)
 
